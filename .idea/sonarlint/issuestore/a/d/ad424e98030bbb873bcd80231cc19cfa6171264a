@@ -1,0 +1,50 @@
+
+u
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(«’¯G8÷¿éÆÎ1
+r
+java:S3655w"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ìšÓäşÿÿÿÿ8¡•üÆÎ1
+m
+java:S3655t"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¢Ë³Ÿ8‡ÀéÆÎ1
+r
+java:S3655q"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(è‰—‘şÿÿÿÿ8‡ÀéÆÎ1
+m
+java:S3655z"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ê°Œ‡8‡ÀéÆÎ1
+G	java:S106"+Replace this use of System.out by a logger.(İ·›8ŒÀéÆÎ1
+L	java:S106"+Replace this use of System.out by a logger.(–Û¢İúÿÿÿÿ8ÀéÆÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Üş®Ë8ÀéÆÎ1
+G	java:S106*"+Replace this use of System.out by a logger.(®òÓ8‘ÀéÆÎ1
+G	java:S1062"+Replace this use of System.out by a logger.(Ë¦„•8‘ÀéÆÎ1
+G	java:S1064"+Replace this use of System.out by a logger.(Åã˜ñ8’ÀéÆÎ1
+L	java:S1069"+Replace this use of System.out by a logger.(íÌë®úÿÿÿÿ8’ÀéÆÎ1
+G	java:S106<"+Replace this use of System.out by a logger.(ğô’Ã8“ÀéÆÎ1
+G	java:S106F"+Replace this use of System.out by a logger.(Âº­®8•ÀéÆÎ1
+G	java:S106O"+Replace this use of System.out by a logger.(ãƒ‘¢8—ÀéÆÎ1
+L	java:S106R"+Replace this use of System.out by a logger.(÷ò™©øÿÿÿÿ8—ÀéÆÎ1
+L	java:S106V"+Replace this use of System.out by a logger.(Æâ­ÿÿÿÿÿ8˜ÀéÆÎ1
+G	java:S106Z"+Replace this use of System.out by a logger.(Ø·á8˜ÀéÆÎ1
+L	java:S106]"+Replace this use of System.out by a logger.(üÍ¼éûÿÿÿÿ8™ÀéÆÎ1
+L	java:S106_"+Replace this use of System.out by a logger.(Ò­¬îıÿÿÿÿ8™ÀéÆÎ1
+G	java:S106b"+Replace this use of System.out by a logger.(·ÙÎ¡8™ÀéÆÎ1
+G	java:S106d"+Replace this use of System.out by a logger.(¶Ã†Æ8šÀéÆÎ1
+G	java:S106e"+Replace this use of System.out by a logger.(ç±°İ8šÀéÆÎ1
+L	java:S106g"+Replace this use of System.out by a logger.(òµ“´üÿÿÿÿ8›ÀéÆÎ1
+G	java:S106i"+Replace this use of System.out by a logger.(¾Ú–´8œÀéÆÎ1
+G	java:S106j"+Replace this use of System.out by a logger.(ĞÛâï8œÀéÆÎ1
+G	java:S106k"+Replace this use of System.out by a logger.(÷ãş‡8ÀéÆÎ1
+G	java:S106l"+Replace this use of System.out by a logger.(ĞÛâï8ÀéÆÎ1
+<
+java:S2676m"Use the original value instead.(ûù€8ÀéÆÎ1
+G	java:S106m"+Replace this use of System.out by a logger.(ûù€8ŸÀéÆÎ1
+G	java:S106o"+Replace this use of System.out by a logger.(ü™ı8ŸÀéÆÎ1
+L	java:S106r"+Replace this use of System.out by a logger.(Ø—½”ùÿÿÿÿ8 ÀéÆÎ1
+G	java:S106u"+Replace this use of System.out by a logger.(‰… ®8¡ÀéÆÎ1
+L
+java:S1905w"*Remove this unnecessary cast to "Integer".(ìšÓäşÿÿÿÿ8¢ÀéÆÎ1
+L	java:S106x"+Replace this use of System.out by a logger.(ƒúÖÆúÿÿÿÿ8ì¤ùÆÎ1
+G
+java:S1905z"*Remove this unnecessary cast to "Integer".(Ê°Œ‡8º•üÆÎ1
+G	java:S106{"+Replace this use of System.out by a logger.(ş†¨î8º•üÆÎ1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ËİüÆÎ1
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8ËİüÆÎ1

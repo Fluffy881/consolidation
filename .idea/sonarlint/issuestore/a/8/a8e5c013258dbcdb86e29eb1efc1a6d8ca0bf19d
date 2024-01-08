@@ -1,0 +1,11 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¬‚ˆ·8†‚ˆÎÎ1
+š
+java:S1130	"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(û¶ÊÀþÿÿÿÿ8†‚ˆÎÎ1
+š
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¹»Üðÿÿÿÿÿ8ñÐ‰ÎÎ1
+Z
+java:S1128"8Remove this unused import 'fr.dawan.genericite.Product'.(Õâªêùÿÿÿÿ8µÇ·ÎÎ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8µÇ·ÎÎ1

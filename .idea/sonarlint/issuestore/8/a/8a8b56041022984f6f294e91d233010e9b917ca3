@@ -1,0 +1,27 @@
+
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡ãÊÎ1
+f
+java:S11922"IDefine a constant instead of duplicating this literal "HH:mm:ss" 3 times.(åµ°„8‡ãÊÎ1
+L	java:S106"+Replace this use of System.out by a logger.(óûÕÅÿÿÿÿÿ8—ãÊÎ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆåßäûÿÿÿÿ8˜ãÊÎ1
+L	java:S106"+Replace this use of System.out by a logger.(£÷ÍÚúÿÿÿÿ8™ãÊÎ1
+L	java:S106"+Replace this use of System.out by a logger.( ÛİÜüÿÿÿÿ8™ãÊÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ûí‚ï8šãÊÎ1
+G	java:S106"+Replace this use of System.out by a logger.(Ø·éø8šãÊÎ1
+G	java:S106$"+Replace this use of System.out by a logger.(±…¶å8›ãÊÎ1
+G	java:S106&"+Replace this use of System.out by a logger.(ÒÖšÆ8›ãÊÎ1
+G	java:S106'"+Replace this use of System.out by a logger.(üÿ·8§ãÊÎ1
+L	java:S106("+Replace this use of System.out by a logger.(šîğáÿÿÿÿÿ8§ãÊÎ1
+G	java:S106,"+Replace this use of System.out by a logger.(½òÏ•8¨ãÊÎ1
+F	java:S106-"+Replace this use of System.out by a logger.(ÆÂŞ48¨ãÊÎ1
+L	java:S106."+Replace this use of System.out by a logger.(Õõ§Åøÿÿÿÿ8¨ãÊÎ1
+L	java:S1061"+Replace this use of System.out by a logger.(€†©Ìıÿÿÿÿ8©ãÊÎ1
+G	java:S1062"+Replace this use of System.out by a logger.(åµ°„8©ãÊÎ1
+L	java:S1066"+Replace this use of System.out by a logger.(”µñ ùÿÿÿÿ8ªãÊÎ1
+G	java:S1069"+Replace this use of System.out by a logger.(é±ªÛ8ªãÊÎ1
+L	java:S106:"+Replace this use of System.out by a logger.(ı¾Òİùÿÿÿÿ8«ãÊÎ1
+G	java:S106>"+Replace this use of System.out by a logger.(›èï8¬ãÊÎ1
+G	java:S106A"+Replace this use of System.out by a logger.(ò”éÈ8¬ãÊÎ1
+G	java:S106C"+Replace this use of System.out by a logger.(ÁØ­´8¬ãÊÎ1
+G	java:S106D"+Replace this use of System.out by a logger.(œÆÌÖ8¬ãÊÎ1
+F	java:S106G"+Replace this use of System.out by a logger.(ª¢Q8­ãÊÎ1

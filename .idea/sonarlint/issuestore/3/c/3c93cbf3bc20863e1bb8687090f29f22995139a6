@@ -1,0 +1,18 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¸‘åşÿÿÿÿ8èÔ¤ÎÎ1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾âò8éÔ¤ÎÎ1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¨³8éÔ¤ÎÎ1
+]
+java:S1854"@Remove this useless assignment to local variable "boiteInteger".(¾âò8íÔ¤ÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(íøâ„øÿÿÿÿ8îÔ¤ÎÎ1
+N
+java:S1481"1Remove this unused "boiteInteger" local variable.(¾âò8ïÔ¤ÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(íøâ„øÿÿÿÿ8ïÔ¤ÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(äà§Îşÿÿÿÿ8ïÔ¤ÎÎ1
+L	java:S106 "+Replace this use of System.out by a logger.(Í­Áîüÿÿÿÿ8ğÔ¤ÎÎ1
+L	java:S106$"+Replace this use of System.out by a logger.(èı¼–şÿÿÿÿ8áù¥ÎÎ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8üÈ·ÎÎ1
